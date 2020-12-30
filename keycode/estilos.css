@@ -1,0 +1,36 @@
+.body {
+  background-color: #5f5f5f;
+  color: white;
+}
+
+.start {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #5f5f5f;
+}
+
+.container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #5f5f5f;
+  flex-direction: column;
+  text-align: center;
+}
+
+.start.hide {
+  display: none;
+}

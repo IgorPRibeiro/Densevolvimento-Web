@@ -1,0 +1,30 @@
+.bem-vindo {
+  width: 100vw;
+  height: 100vh;
+  background: #6c7a89;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .login {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-login {
+  width: 400px;
+  height: 400px;
+  background: #6c7a89;
+  padding: 20;
+}
+
+.div-form {
+  padding: 20;
+} */
