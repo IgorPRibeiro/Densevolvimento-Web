@@ -33,10 +33,10 @@
     <img  src="./github/img/mobile.gif" width="300px" height="auto" />
   </div>
 
-
+<hr>
 <div id="igor-technologies">
     <h2 align="center">Esse projeto foi densevolvido para uma entrevista de emprego usando as seguintes
-tecnologias :</h2>
+tecnologias </h2>
     <ul>
       <li><a href="https://reactnative.dev">ReactNative</a></li>
       <li><a href="https://www.php.net/releases/8.0/en.php">PHP 8</a></li>
