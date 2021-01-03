@@ -27,12 +27,12 @@
   </div>
 </br>
 
-<br >
-  <div style="text-align:center">
+
+  <div style="display:flex;justify-content:center">
     <h2 align="center">Navegando entre telas no React Native</h2>
     <img  src="./github/img/mobile.gif" width="300px" height="auto" />
   </div>
-</br>
+
 
 <div id="igor-technologies">
     <h2 align="center">Esse projeto foi densevolvido para uma entrevista de emprego usando as seguintes
