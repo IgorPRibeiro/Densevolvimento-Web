@@ -28,7 +28,7 @@
 </br>
 
 
-  <div style="display:flex;justify-content:center">
+  <div align="center">
     <h2 align="center">Navegando entre telas no React Native</h2>
     <img  src="./github/img/mobile.gif" width="300px" height="auto" />
   </div>
