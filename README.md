@@ -4,7 +4,6 @@
 <hr>
 <p align="center">
   <a href="#igor-technologies">Technologies</a>
-  </a>
 </p>
 
 <br>
@@ -31,21 +30,22 @@
 <br >
   <div style="text-align:center">
     <h2 align="center">Navegando entre telas no React Native</h2>
-    <img  src="./github/img/mobile.gif" />
+    <img  src="./github/img/mobile.gif" width="300px" height="auto" />
   </div>
 </br>
 
-## :igor: Technologies
-
-Esse projeto foi densevolvido para uma entrevista de emprego usando as seguintes
-tecnologias :
-
-- [ReactNative](https://reactnative.dev)
-- [PHP8](https://www.php.net/releases/8.0/en.php)
-- [Composer](https://getcomposer.org)
-- [NodeJs](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [Xammp](https://www.framer.com/motion/)
-- [react-native-router-flux](https://github.com/aksonov/react-native-router-flux)
-- [VS Code](https://code.visualstudio.com)
-- [Bootstrap 4](https://getbootstrap.com)
+<div id="igor-technologies">
+    <h2 align="center">Esse projeto foi densevolvido para uma entrevista de emprego usando as seguintes
+tecnologias :</h2>
+    <ul>
+      <li><a href="https://reactnative.dev">ReactNative</a></li>
+      <li><a href="https://www.php.net/releases/8.0/en.php">PHP 8</a></li>
+      <li><a href="https://getcomposer.org">Composer</a></li>
+      <li><a href="https://nodejs.org/en/">NodeJS</a></li>
+      <li><a href="https://expressjs.com/pt-br/">Express</a></li>
+      <li><a href="https://www.apachefriends.org/pt_br/index.html">Xampp</a></li>
+      <li><a href="https://www.apachefriends.org/pt_br/index.html">react-native-router-flux</a></li>
+      <li><a href="https://getbootstrap.com">Bootstrap 4</a></li>
+      <li><a href="https://code.visualstudio.com">VS Code</a></li>
+    </ul>
+</div>
