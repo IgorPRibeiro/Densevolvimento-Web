@@ -1,5 +1,5 @@
 <h4 align="center" >
-  Um conjunto de projetos feitos em varias linguagem feito com o simples da programação
+  A set of projects made in some languages and technologies
 </h4>
 <hr>
 <p align="center">
@@ -8,7 +8,7 @@
 
 <br>
   <div>
-    <h2 align="center">Naevegando entre rotas em NodeJs</h2>
+    <h2 align="center">Navegate between routes in NodeJs</h2>
     <img src="./github/img/NodeJsTeste.gif" />
   </div>
 </br>
@@ -22,14 +22,14 @@
 
 <br>
   <div>
-    <h2 align="center">Formulario em PHP</h2>
+    <h2 align="center">PHP Form</h2>
     <img src="./github/img/Form.gif" />
   </div>
 </br>
 
 
   <div align="center">
-    <h2 align="center">Navegando entre telas no React Native</h2>
+    <h2 align="center">Navegate between screens on React Native</h2>
     <img  src="./github/img/mobile.gif" width="300px" height="auto" />
   </div>
 
